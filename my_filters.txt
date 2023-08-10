@@ -1,0 +1,2 @@
+!!simple but working
+*-siken.com/js/kakomonApp.js
